@@ -30,7 +30,7 @@ ss1:Label("Press Right Control/CTRL To Toggle the GUI")
 -- MAIN Tab (Universal Scripts)
 local UniversalTab = ss
 ss1:Label("Changelog")
-ss1:Label("Added Scripts & Adding More Scripts - Version V1.11")
+ss1:Label("Added Scripts & Adding More Scripts - Version V1")
 ss1:Label("Added Support For: Fisch, TOH, Brookhaven, Ability Wars")
 createScriptButton(UniversalTab, "Fisch (Recommended For Pro's)", "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua")
 createScriptButton(UniversalTab, "Fisch (Recommended For New Player's)", "https://raw.githubusercontent.com/Efe0626/RaitoHub/refs/heads/main/Script")
